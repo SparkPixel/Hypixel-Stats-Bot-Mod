@@ -27,7 +27,7 @@ A tiny Forge 1.8.9 **client-side** bot that listens for `/msg` whispers on Hypix
 ## 3 · Get your Hypixel API key
 
 1. Log into your Hypixel account in any browser.  
-2. Open **<https://developer.hypixel.net/reset>**.  
+2. Open **https://developer.hypixel.net/dashboard/**.  
 3. Click **“Generate New API Key”** → copy the 32-character key shown.  
 
 > You can manage / revoke keys at any time from the same page.
