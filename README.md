@@ -11,7 +11,7 @@ A tiny Forge 1.8.9 **client-side** bot that listens for `/msg` whispers on Hypix
 | **Minecraft**      | **1.8.9** (any launcher)                      |
 | **Forge**          | 1.8.9-latest (download from files.minecraftforge.net) |
 | **Java 8 JRE**     | Minecraft 1.8.9 already ships with it         |
-| **Hypixel API key**| Generate once at **<(https://developer.hypixel.net/dashboard/)>** (see step 3) |
+| **Hypixel API key**| Generate once at **https://developer.hypixel.net/dashboard/)** (see step 3) |
 
 ---
 
