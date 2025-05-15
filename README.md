@@ -42,5 +42,5 @@ A tiny Forge 1.8.9 **client-side** bot that listens for `/msg` whispers on Hypix
 
    ```properties
    [api]
-   key = 01234567-89ab-cdef-0123-456789abcdef
+   key = YOUR-KEY-HERE
    requests_per_min = 75      # default: 75 (runs well below Hypixel’s 120 rpm cap)
